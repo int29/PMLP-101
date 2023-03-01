@@ -16,7 +16,10 @@
 - [왜 머신러닝 프로젝트를 혼자 하려면 막막할까?](https://github.com/int29/PMLP-101/blob/main/chapter_00_introduction/00_들어가며%20(Introduction).md) <br>
 
 #### 챕터01 : 머신러닝 이해하기 <br>
-- [01.머신러닝 이해하기 1 : 머신러닝은 도대체 무엇일까?]() <br>
+- [01.머신러닝 이해하기 : 머신러닝은 도대체 무엇일까?](https://github.com/int29/PMLP-101/blob/main/chapter_01_Understanding_Machine_Learning/01.머신러닝%20이해하기.md) 
+- [02.머신러닝 알고리즘 : 최근접이웃 (KNN)]() 
+- [03.머신러닝 알고리즘 : 의사결정나무 (Decision Tree)]() 
+<br>
 
 #### 01. 문서의 목적과 대상 독자 
 
