@@ -12,7 +12,7 @@
 즉, 독자가 갖는 막막함은 프로세스 자체에 대한 지식을 학습하지 않았다기 보다는 학습한 프로세스와 실제 프로젝트 사이의 대입(응용)이 되지 않는 부분으로 인해 발생하것임을 생각해 봄직 하다.
 
 <div align="center">
-	<img src="https://github.com/int29/PMLP-101/blob/main/chapter_00_introduction/00_들어가며_01.png?raw=true" width="500">
+	<img src="https://github.com/int29/PMLP-101/blob/main/chapter_00_introduction/img/00_01.png?raw=true" width="500">
 	<p>[그림 00-01] 머신러닝 프로세스</p>
 </div>
 
